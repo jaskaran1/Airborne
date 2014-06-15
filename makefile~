@@ -1,3 +1,0 @@
-all:
-	g++ DevilOnWings3.cpp -lglut -lGL -lGLU -lalut -lopenal -o viewer
-	g++ gui.cpp -lalut -lopenal -lglut -lGL -lGLU -o play
