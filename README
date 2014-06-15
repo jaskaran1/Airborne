@@ -1,0 +1,9 @@
+Prerequisite:
+OpenAL,OpenGL,GLUT should be installed. 
+Build Instructions:
+>>make
+>>./play
+
+How to play:
+Use the arrow keys to save your airplane from hitting the incoming
+asteroids.
