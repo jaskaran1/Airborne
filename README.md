@@ -1,3 +1,5 @@
+Flight-based GUI game for Linux using C++/OpenGL
+
 Prerequisite:
 OpenAL,OpenGL,GLUT should be installed. 
 Build Instructions:
